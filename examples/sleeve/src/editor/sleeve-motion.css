@@ -1,0 +1,57 @@
+/* Only the editor's physical sleeve changes. These layers never enter the scene/PNG. */
+.sleeve-motion {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1;
+  isolation: isolate;
+}
+
+.sleeve-motion__live {
+  position: relative;
+  z-index: 3;
+  width: 100%;
+  transform-origin: 48% 62%;
+}
+
+.sleeve-motion__stock,
+.sleeve-motion__previous {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  transform-origin: 50% 62%;
+  border-radius: 2px;
+}
+
+.sleeve-motion__stock {
+  z-index: 1;
+  background: #d5d0c3;
+  border: 1px solid #bcb5a6;
+  box-shadow: 0 5px 12px -7px rgb(29 29 27 / 0.32);
+}
+
+.sleeve-motion__previous {
+  z-index: 2;
+  overflow: hidden;
+  box-shadow: 0 8px 16px -10px rgb(29 29 27 / 0.25);
+}
+
+.sleeve-motion__art {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.sleeve-motion[data-switching] .cover-ink {
+  transition: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .sleeve-motion__stock,
+  .sleeve-motion__previous {
+    display: none;
+  }
+
+  .sleeve-motion__live {
+    transform: none !important;
+  }
+}

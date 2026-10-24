@@ -1,0 +1,58 @@
+[
+  {
+    "path": "assets/landscape/cherry-street-park/film.mp4",
+    "originalBytes": 87896998,
+    "previewBytes": 32604,
+    "originalSHA256": "ffc85b0c05a035c7c0cc77fe7143a3da5909f8f0231967aa25e9cff457dae583",
+    "previewSHA256": "82b88241c6009bcde06c68694e9443f002ce19d897ba079d5fe0301358a6b4ed",
+    "mode": "First up to 8 seconds, <=960px wide, 24fps, H.264 CRF30, muted. Original preserved outside package."
+  },
+  {
+    "path": "assets/motion/dune-remake/film.mp4",
+    "originalBytes": 43043344,
+    "previewBytes": 310718,
+    "originalSHA256": "cd4fe0a949f7459dc87ba1e8c65eb44193c7d763934b8842e7cc31f82c5bafb0",
+    "previewSHA256": "8d16971047a84c74be3f2fb4d8fca595c450c29c3dee78a17ed799a44ae95215",
+    "mode": "First up to 8 seconds, <=960px wide, 24fps, H.264 CRF30, muted. Original preserved outside package."
+  },
+  {
+    "path": "assets/motion/film-0228-draft/film.mp4",
+    "originalBytes": 25331203,
+    "previewBytes": 416335,
+    "originalSHA256": "11aa055eeb692faf0a4e0ec07b0c985122c3e0d853a4c9c21f40af85e47394e2",
+    "previewSHA256": "bfc60026040f9f03bbe1f35f4832a4e46d0da15c548b5e940ec59ff41d359989",
+    "mode": "First up to 8 seconds, <=960px wide, 24fps, H.264 CRF30, muted. Original preserved outside package."
+  },
+  {
+    "path": "assets/motion/navier-stokes-q-pop/film.mp4",
+    "originalBytes": 5625931,
+    "previewBytes": 499319,
+    "originalSHA256": "9ebec9f5c406f775e5aaa0173d7dfd2e4b1cd41a1cc9e8e0b640732025d0ce2d",
+    "previewSHA256": "4f89ed609df9027d418033139c607c64184e1d169de086acab2a7f017c2c5213",
+    "mode": "First up to 8 seconds, <=960px wide, 24fps, H.264 CRF30, muted. Original preserved outside package."
+  },
+  {
+    "path": "assets/motion/nba-promo/film.mp4",
+    "originalBytes": 29795640,
+    "previewBytes": 501430,
+    "originalSHA256": "db9bd7ac794c1b7c5a12ba4dc0d367104fe2438ebe228707f7ff2466302740fa",
+    "previewSHA256": "04cd206304b67f86737109617428d5babefa21d0382e25dc32a8b924a9edc2c3",
+    "mode": "First up to 8 seconds, <=960px wide, 24fps, H.264 CRF30, muted. Original preserved outside package."
+  },
+  {
+    "path": "assets/motion/nba-promo/version-1.mp4",
+    "originalBytes": 28860229,
+    "previewBytes": 489192,
+    "originalSHA256": "e8960f5cc81422d9376840eaa2fb8c3e54a8a02655a4bb362d92d151eaa777a7",
+    "previewSHA256": "2c07610ec6b08c2c09a1b43fac51ba11a2f4347539cfa1fe8c9b84aa3f4666e8",
+    "mode": "First up to 8 seconds, <=960px wide, 24fps, H.264 CRF30, muted. Original preserved outside package."
+  },
+  {
+    "path": "assets/motion/nfl-spec-promo/film.mp4",
+    "originalBytes": 10149726,
+    "previewBytes": 820105,
+    "originalSHA256": "4aebd3a543244b8202e1144bf3bdd67c190023bb680c9c2e27d020b4b7a62f50",
+    "previewSHA256": "73dcd911f78cc11fd6f2d7f2523876f76bbaafd68ad6dcb7ade3905f66f289f9",
+    "mode": "First up to 8 seconds, <=960px wide, 24fps, H.264 CRF30, muted. Original preserved outside package."
+  }
+]

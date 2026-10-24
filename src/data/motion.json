@@ -1,0 +1,263 @@
+[
+  {
+    "id": "nfl-spec-promo",
+    "category": "motion",
+    "title": {
+      "zh": "NFL 概念宣传片",
+      "en": "NFL Spec Promo"
+    },
+    "subtitle": {
+      "zh": "运动、人物与电影感光线",
+      "en": "Sport, character and cinematic light"
+    },
+    "year": "—",
+    "status": "ready",
+    "cover": "/assets/motion/nfl-spec-promo/cover.webp",
+    "images": [
+      {
+        "src": "/assets/motion/nfl-spec-promo/cover.webp",
+        "caption": {
+          "zh": "临时选帧 · 封面待定",
+          "en": "Temporary selected frame · cover under review"
+        },
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/motion/nfl-spec-promo/workflow.webp",
+        "caption": {
+          "zh": "实际保存的制作工作流总览",
+          "en": "Overview of the saved production workflow"
+        },
+        "width": 2000,
+        "height": 723
+      }
+    ],
+    "description": {
+      "zh": "以美式橄榄球为题材的 AIGC 概念宣传片。保留成片与可追溯的工作流总览；概念练习的性质、素材来源和具体贡献将进一步补充。",
+      "en": "An AIGC spec promo exploring American football imagery. The film is presented with a traceable workflow overview; detailed contribution and source notes are being prepared."
+    },
+    "role": {
+      "zh": "个人影像实验；实际贡献、AI 辅助与后期分工待补。",
+      "en": "Personal moving-image experiment; contribution, AI-assistance and post-production notes to follow."
+    },
+    "tools": [],
+    "video": "/assets/motion/nfl-spec-promo/film.mp4",
+    "poster": "/assets/motion/nfl-spec-promo/cover.webp",
+    "processImages": [
+      {
+        "src": "/assets/motion/nfl-spec-promo/workflow.webp",
+        "caption": {
+          "zh": "实际保存的制作工作流总览",
+          "en": "Overview of the saved production workflow"
+        },
+        "width": 2000,
+        "height": 723
+      }
+    ]
+  },
+  {
+    "id": "dune-remake",
+    "category": "motion",
+    "title": {
+      "zh": "《沙丘》影像翻拍实验",
+      "en": "Dune · A Remake Study"
+    },
+    "subtitle": {
+      "zh": "科幻叙事与生成式影像",
+      "en": "Science-fiction narrative and generative imagery"
+    },
+    "year": "—",
+    "status": "ready",
+    "cover": "/assets/motion/dune-remake/cover.webp",
+    "images": [
+      {
+        "src": "/assets/motion/dune-remake/cover.webp",
+        "caption": {
+          "zh": "临时选帧 · 封面待定",
+          "en": "Temporary selected frame · cover under review"
+        },
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "src": "/assets/motion/dune-remake/workflow.webp",
+        "caption": {
+          "zh": "实际保存的制作工作流总览",
+          "en": "Overview of the saved production workflow"
+        },
+        "width": 2000,
+        "height": 1666
+      }
+    ],
+    "description": {
+      "zh": "围绕《沙丘》视觉世界展开的个人影像翻拍实验，展示成片及生成流程。作为基于既有作品的学习与实验呈现，素材引用与 AI 辅助范围待补。",
+      "en": "A personal remake study responding to the visual world of Dune, shown through the film and its generation workflow. Presented as a study based on an existing work; source and AI-assistance credits are being completed."
+    },
+    "role": {
+      "zh": "个人影像实验；实际贡献、AI 辅助与后期分工待补。",
+      "en": "Personal moving-image experiment; contribution, AI-assistance and post-production notes to follow."
+    },
+    "tools": [],
+    "video": "/assets/motion/dune-remake/film.mp4",
+    "poster": "/assets/motion/dune-remake/cover.webp",
+    "processImages": [
+      {
+        "src": "/assets/motion/dune-remake/workflow.webp",
+        "caption": {
+          "zh": "实际保存的制作工作流总览",
+          "en": "Overview of the saved production workflow"
+        },
+        "width": 2000,
+        "height": 1666
+      }
+    ]
+  },
+  {
+    "id": "navier-stokes-q-pop",
+    "category": "motion",
+    "title": {
+      "zh": "Navier–Stokes / Q-POP",
+      "en": "Navier–Stokes / Q-POP"
+    },
+    "subtitle": {
+      "zh": "人物、服装与形态的生成实验",
+      "en": "A generative study of figures, costume and form"
+    },
+    "year": "—",
+    "status": "ready",
+    "cover": "/assets/motion/navier-stokes-q-pop/cover.webp",
+    "images": [
+      {
+        "src": "/assets/motion/navier-stokes-q-pop/cover.webp",
+        "caption": {
+          "zh": "临时选帧 · 封面待定",
+          "en": "Temporary selected frame · cover under review"
+        },
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "/assets/motion/navier-stokes-q-pop/workflow.webp",
+        "caption": {
+          "zh": "实际保存的制作工作流总览",
+          "en": "Overview of the saved production workflow"
+        },
+        "width": 2000,
+        "height": 1869
+      }
+    ],
+    "description": {
+      "zh": "以人物、服装与形态变化为线索的生成式影像实验。本地保存了成片、工作流数据及总览图，便于继续梳理制作方法。",
+      "en": "A generative moving-image study of figures, costume and changing forms. The film, workflow data and overview are retained locally as a basis for documenting the making process."
+    },
+    "role": {
+      "zh": "个人影像实验；实际贡献、AI 辅助与后期分工待补。",
+      "en": "Personal moving-image experiment; contribution, AI-assistance and post-production notes to follow."
+    },
+    "tools": [],
+    "video": "/assets/motion/navier-stokes-q-pop/film.mp4",
+    "poster": "/assets/motion/navier-stokes-q-pop/cover.webp",
+    "processImages": [
+      {
+        "src": "/assets/motion/navier-stokes-q-pop/workflow.webp",
+        "caption": {
+          "zh": "实际保存的制作工作流总览",
+          "en": "Overview of the saved production workflow"
+        },
+        "width": 2000,
+        "height": 1869
+      }
+    ]
+  },
+  {
+    "id": "nba-promo",
+    "category": "motion",
+    "title": {
+      "zh": "NBA 概念宣传片",
+      "en": "NBA Spec Promo"
+    },
+    "subtitle": {
+      "zh": "篮球影像 · 两版过程",
+      "en": "Basketball imagery · two versions"
+    },
+    "year": "—",
+    "status": "ready",
+    "cover": "/assets/motion/nba-promo/cover.webp",
+    "images": [
+      {
+        "src": "/assets/motion/nba-promo/cover.webp",
+        "caption": {
+          "zh": "临时选帧 · 封面待定",
+          "en": "Temporary selected frame · cover under review"
+        },
+        "width": 2000,
+        "height": 1119
+      }
+    ],
+    "description": {
+      "zh": "以篮球为主题的概念宣传影像。两个已有版本合并为同一案例，保留修改过程；项目署名、引用素材及 AI 与后期的分工待补。",
+      "en": "A basketball-themed spec promo. Two existing versions are kept together as one case study, with source, authorship and AI/post-production notes to be completed."
+    },
+    "role": {
+      "zh": "个人影像实验；实际贡献、AI 辅助与后期分工待补。",
+      "en": "Personal moving-image experiment; contribution, AI-assistance and post-production notes to follow."
+    },
+    "tools": [],
+    "video": "/assets/motion/nba-promo/film.mp4",
+    "poster": "/assets/motion/nba-promo/cover.webp",
+    "versions": [
+      {
+        "label": {
+          "zh": "版本 2",
+          "en": "Version 2"
+        },
+        "src": "/assets/motion/nba-promo/film.mp4"
+      },
+      {
+        "label": {
+          "zh": "版本 1",
+          "en": "Version 1"
+        },
+        "src": "/assets/motion/nba-promo/version-1.mp4"
+      }
+    ]
+  },
+  {
+    "id": "film-0228-draft",
+    "category": "motion",
+    "title": {
+      "zh": "影像草稿 · 02.28",
+      "en": "Moving-image draft · 02.28"
+    },
+    "subtitle": {
+      "zh": "内部归档 · 项目关系待确认",
+      "en": "Internal archive · project relationship to confirm"
+    },
+    "year": "—",
+    "status": "wip",
+    "cover": "/assets/motion/film-0228-draft/cover.webp",
+    "images": [
+      {
+        "src": "/assets/motion/film-0228-draft/cover.webp",
+        "caption": {
+          "zh": "临时选帧 · 封面待定",
+          "en": "Temporary selected frame · cover under review"
+        },
+        "width": 2000,
+        "height": 1119
+      }
+    ],
+    "description": {
+      "zh": "文件名为“2月28日”的现存影像。暂保留在本地草稿，内容与 NBA 宣传片的版本关系、正式题名及个人贡献尚待确认。",
+      "en": "An existing film saved as “2月28日”. Retained in the local draft while its relationship to the NBA promo, final title and contribution details are confirmed."
+    },
+    "role": {
+      "zh": "个人影像实验；实际贡献、AI 辅助与后期分工待补。",
+      "en": "Personal moving-image experiment; contribution, AI-assistance and post-production notes to follow."
+    },
+    "tools": [],
+    "video": "/assets/motion/film-0228-draft/film.mp4",
+    "poster": "/assets/motion/film-0228-draft/cover.webp"
+  }
+]

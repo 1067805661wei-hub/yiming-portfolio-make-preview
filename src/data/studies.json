@@ -1,0 +1,18 @@
+[
+  {
+    "id": "rhino-geometric-studies",
+    "category": "spatial",
+    "title": { "zh": "Rhino 建模练习", "en": "Rhino · Geometric Studies" },
+    "subtitle": { "zh": "已有模型 · 展示视图待整理", "en": "Existing models · views to be prepared" },
+    "year": "—",
+    "status": "placeholder",
+    "cover": "",
+    "images": [],
+    "description": {
+      "zh": "现有练习包括布尔运算、双轨扫掠、混接曲面、曲线与曲面流动、螺旋阶梯和拱桥结构线等。模型工程已保留，展示用的视图与过程说明将在整理后补充。",
+      "en": "Existing exercises include Boolean operations, two-rail sweeps, blended surfaces, flow along curves and surfaces, spiral stairs and bridge structure studies. Model files are retained; presentation views and process notes will be added as they are prepared."
+    },
+    "role": { "zh": "个人建模练习；本页预留展示位置", "en": "Personal modelling exercises; presentation space reserved" },
+    "tools": ["Rhino"]
+  }
+]

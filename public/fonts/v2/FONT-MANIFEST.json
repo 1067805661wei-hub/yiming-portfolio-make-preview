@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-24",
+  "license": "SIL Open Font License 1.1",
+  "character_count": 806,
+  "character_sha256": "27188b82a7168bbc64a51f33fa45ddc0c93b570dde2d814fb86154d37a0ce705",
+  "text_sources": [
+    "src/main.jsx",
+    "src/personal.json",
+    "src/data/botanical.json",
+    "src/data/digital.json",
+    "src/data/graphic.json",
+    "src/data/landscape.json",
+    "src/data/motion.json",
+    "src/data/spatial.json",
+    "src/data/studies.json"
+  ],
+  "original_font_location": "TEMP cache only; complete TTF files are not shipped with the site.",
+  "fonts": [
+    {
+      "source_family": "Noto Sans SC",
+      "family": "Portfolio Sans SC",
+      "file": "portfolio-sans-sc-v2.woff2",
+      "weight": [
+        400,
+        600
+      ],
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanssc/NotoSansSC%5Bwght%5D.ttf",
+      "source_bytes": 17772300,
+      "source_git_blob": "fb0637bafbcd804fe32152370a1225990745b4bc",
+      "source_sha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+      "source_version": "Version 2.004-H2;hotconv 1.0.118;makeotfexe 2.5.65603",
+      "license_file": "NotoSansSC-OFL.txt",
+      "bytes": 177224,
+      "glyph_count": 830,
+      "covered_codepoints": 806,
+      "missing_cjk": [],
+      "sha256": "6d19564c53c1ad029a6edc110d70af8c84e25aca3b2132f6d44401b686a8d185",
+      "axes": [
+        {
+          "tag": "wght",
+          "min": 400.0,
+          "default": 400.0,
+          "max": 600.0
+        }
+      ]
+    },
+    {
+      "source_family": "Noto Serif SC",
+      "family": "Portfolio Serif SC",
+      "file": "portfolio-serif-sc-v2.woff2",
+      "weight": 400,
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notoserifsc/NotoSerifSC%5Bwght%5D.ttf",
+      "source_bytes": 25125512,
+      "source_git_blob": "eab063faf229160a52d3760f5555150e4eb9e5bf",
+      "source_sha256": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9",
+      "source_version": "Version 2.003-H1;hotconv 1.1.1;makeotfexe 2.6.0",
+      "license_file": "NotoSerifSC-OFL.txt",
+      "bytes": 132716,
+      "glyph_count": 830,
+      "covered_codepoints": 806,
+      "missing_cjk": [],
+      "sha256": "1f20286cf0eb2f153a6e381589e2e635aec325290650c4ab9ee34f4dd1326152",
+      "axes": []
+    }
+  ]
+}

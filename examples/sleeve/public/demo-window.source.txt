@@ -1,0 +1,26 @@
+SLEEVE / WINDOW — demonstration image provenance
+
+Asset: demo-window.png
+Dimensions: 1536 x 1024 pixels (PNG)
+Generated: 2026-10-22
+Source: OpenAI built-in image_gen tool, generated for this project.
+Attribution label: AI-generated demo image / AI 生成演示图
+This is a fictional architectural scene created with AI. It is not a photograph
+taken by the portfolio owner, and must not be presented as their photography.
+The generated PNG was copied into this project without image edits.
+SHA-256: E546BF23D01092E1F422AD731BFFAD96B5B629ADA04001B868F951A644EACDC0
+
+Original generated file: retained locally by the project owner; not needed for this portable demo.
+
+Final generation prompt:
+
+Use case: photorealistic-natural.
+Asset type: original AI-generated demonstration photograph for the WINDOW template in a small playlist cover design tool. This is a fictional architectural scene, not a photograph taken by the portfolio owner.
+Primary request: a quiet, beautiful contemporary architectural photograph in natural light, suitable for a refined independent photography book.
+Scene and subject: a close architectural fragment of a warm gray-beige exposed concrete courtyard, with a partial arched opening and a short stair disappearing through it. A small patch of deep green vegetation enters one edge of the frame. Keep the architecture plausible and understated.
+Composition: horizontal 3:2 editorial photograph, carefully balanced strong planes and negative space, a clear central architectural subject that still works when cropped to a wide horizontal window. Avoid symmetry that looks like a stock render.
+Lighting: strong late-afternoon sunlight, long diagonal shadows across rough walls and stone steps, physically credible reflected light in shadow areas.
+Materials and color: visible concrete pores, slight mineral weathering, subtle variations in warm beige stone and gray concrete, subdued dark greens. Restrained warm neutral palette; realistic fine detail with a gentle photographic grain.
+Style: photographic realism, natural perspective, believable dynamic range, matte printed-photo character.
+Constraints: no people, no text, no letters, no logo, no watermark, no poster or album cover layout, no graphic overlays. No plastic surfaces, glossy CGI, 3D-render appearance, exaggerated cinematic teal/orange grading, surreal architecture, or excessive decorative objects.
+

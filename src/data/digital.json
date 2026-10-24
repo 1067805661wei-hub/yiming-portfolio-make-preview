@@ -1,0 +1,208 @@
+[
+  {
+    "id": "sleeve",
+    "category": "digital",
+    "title": {
+      "zh": "Sleeve",
+      "en": "Sleeve"
+    },
+    "subtitle": {
+      "zh": "唱片封面编辑器 · UI 与交互概念",
+      "en": "A cover press · UI & interaction concept"
+    },
+    "year": "2026",
+    "status": "ready",
+    "cover": "/assets/digital/sleeve-editor-desktop.webp",
+    "images": [
+      {
+        "src": "/assets/digital/sleeve-desktop.webp",
+        "caption": {
+          "zh": "V2 模板目录 · 当前本地界面",
+          "en": "V2 edition collection · current local interface"
+        },
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/assets/digital/sleeve-editor-desktop.webp",
+        "caption": {
+          "zh": "V2 编辑工作台 · 当前本地界面",
+          "en": "V2 editing workbench · current local interface"
+        },
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/assets/digital/sleeve-editor-mobile.webp",
+        "caption": {
+          "zh": "移动端编辑界面 · 浏览器视口 390 × 844",
+          "en": "Mobile editor · browser viewport 390 × 844"
+        },
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "description": {
+      "zh": "一个围绕唱片封面排版的小型交互概念：选择模板，调整文字、布局与配色，再导出 PNG。项目包含六款图形模板与一款照片窗口模板。此处展示当前本地 V2 原型；照片模板中的默认建筑图为 AI 生成示例，不属于个人摄影。",
+      "en": "A compact interaction concept for making record sleeves: choose an edition, adjust type, layout and colour, then export a PNG. It contains six graphic templates and one photo-window template. These captures show the current local V2 prototype. The default architectural image in the photo template is an AI-generated demo, not personal photography."
+    },
+    "role": {
+      "zh": "个人概念项目 · 视觉方向、交互取舍与迭代；Figma Make 生成初稿，AI 编程辅助本地精修。",
+      "en": "Personal concept · visual direction, interaction decisions and iteration; an initial Figma Make prototype refined locally with AI coding assistance."
+    },
+    "tools": [
+      "Figma Make",
+      "React",
+      "SVG",
+      "Vite",
+      "AI-assisted coding"
+    ]
+  },
+  {
+    "id": "offline-club",
+    "category": "digital",
+    "title": {
+      "zh": "Offline Club",
+      "en": "Offline Club"
+    },
+    "subtitle": {
+      "zh": "复古桌面 · 互动视觉概念",
+      "en": "A retro desktop · interactive visual concept"
+    },
+    "year": "2026",
+    "status": "ready",
+    "cover": "/assets/digital/offline-club-desktop.webp",
+    "images": [
+      {
+        "src": "/assets/digital/offline-club-desktop.webp",
+        "caption": {
+          "zh": "V2 桌面全景 · 当前本地界面",
+          "en": "V2 desktop overview · current local interface"
+        },
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/assets/digital/offline-club-off-duty.webp",
+        "caption": {
+          "zh": "OFF DUTY 场景 · 当前本地界面",
+          "en": "OFF DUTY scene · current local interface"
+        },
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/assets/digital/offline-club-mobile.webp",
+        "caption": {
+          "zh": "移动端界面 · 浏览器视口 390 × 844",
+          "en": "Mobile interface · browser viewport 390 × 844"
+        },
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "description": {
+      "zh": "以照片盒、环境声机和纸条盒组成的复古桌面概念。窗口、纸质物件与 OFF DUTY 场景构成一段轻量的浏览体验。图片是署名保留的第三方 Unsplash 示例，声音是合成氛围示例；这里展示的是界面与交互设计，不作为本人摄影或实地录音作品。",
+      "en": "A retro desktop concept made of a photo box, an ambient sound machine and paper keepsakes. Windows, paper objects and an OFF DUTY scene create a small browsing experience. The images are credited third-party Unsplash demos and the audio is synthesised ambience. This project presents interface and interaction design, not personal photography or field recordings."
+    },
+    "role": {
+      "zh": "个人概念项目 · 视觉选择、交互方向与响应式迭代；Figma Make 与 AI 编程辅助实现。",
+      "en": "Personal concept · visual selection, interaction direction and responsive iteration, realised with Figma Make and AI coding assistance."
+    },
+    "tools": [
+      "Figma Make",
+      "React",
+      "CSS",
+      "Vite",
+      "AI-assisted coding"
+    ]
+  },
+  {
+    "id": "fold",
+    "category": "digital",
+    "title": {
+      "zh": "FOLD",
+      "en": "FOLD"
+    },
+    "subtitle": {
+      "zh": "光与纸艺 · 数字展览研究",
+      "en": "A study in light · digital exhibition concept"
+    },
+    "year": "2026",
+    "status": "wip",
+    "cover": "/assets/digital/fold-art-direction.webp",
+    "images": [
+      {
+        "src": "/assets/digital/fold-art-direction.webp",
+        "caption": {
+          "zh": "视觉方向图 · AI 辅助生成的概念素材，尚非运行界面",
+          "en": "Art-direction study · AI-assisted concept imagery, not a running interface"
+        },
+        "width": 1672,
+        "height": 941
+      }
+    ],
+    "description": {
+      "zh": "围绕褶皱灯具与纸艺舞台发展的互动数字展览研究。目前已准备视觉方向、分层素材与交互方案，网页实现尚在进行中。图像为 AI 辅助生成的概念素材；灯具未制造，也不是实际品牌委托。",
+      "en": "An interactive exhibition study around a pleated lamp and a paper stage. Art direction, layered assets and an interaction plan have been prepared; web implementation is still in progress. Images are AI-assisted concept assets. The lamp has not been manufactured and this is not a commissioned brand project."
+    },
+    "role": {
+      "zh": "个人概念研究 · 艺术指导、素材组织与交互规划，AI 辅助视觉生成。",
+      "en": "Personal concept study · art direction, asset organisation and interaction planning with AI-assisted image generation."
+    },
+    "tools": [
+      "Figma Make — planned",
+      "AI-assisted imagery"
+    ]
+  },
+  {
+    "id": "web-experiment-01",
+    "category": "digital",
+    "title": {
+      "zh": "Web Coding 项目 01",
+      "en": "Web Coding — Project 01"
+    },
+    "subtitle": {
+      "zh": "待补充 · 独立网页项目",
+      "en": "To be added · independent web project"
+    },
+    "year": "2026",
+    "status": "placeholder",
+    "cover": "/assets/digital/web-placeholder-1.webp",
+    "images": [],
+    "description": {
+      "zh": "为后续独立 Web Coding 项目保留的位置。名称、项目内容、界面预览与链接待补充。",
+      "en": "A reserved position for an independent web-coding project. The project name, content, interface preview and link will be added later."
+    },
+    "role": {
+      "zh": "待补充",
+      "en": "To be added"
+    },
+    "tools": []
+  },
+  {
+    "id": "web-experiment-02",
+    "category": "digital",
+    "title": {
+      "zh": "Web Coding 项目 02",
+      "en": "Web Coding — Project 02"
+    },
+    "subtitle": {
+      "zh": "待补充 · 独立网页项目",
+      "en": "To be added · independent web project"
+    },
+    "year": "2026",
+    "status": "placeholder",
+    "cover": "/assets/digital/web-placeholder-2.webp",
+    "images": [],
+    "description": {
+      "zh": "为后续独立 Web Coding 项目保留的位置。名称、项目内容、界面预览与链接待补充。",
+      "en": "A reserved position for an independent web-coding project. The project name, content, interface preview and link will be added later."
+    },
+    "role": {
+      "zh": "待补充",
+      "en": "To be added"
+    },
+    "tools": []
+  }
+]

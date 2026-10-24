@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-24",
+  "version": "V3",
+  "license": "SIL Open Font License 1.1",
+  "character_count": 812,
+  "character_sha256": "e817444e45086553d035a8b886f8e05e5ed72978800417a7dccbd1ca4f0fce2b",
+  "text_sources": [
+    "src/components/HomeV3.jsx",
+    "src/components/Preloader.jsx",
+    "src/components/ProjectV2.jsx",
+    "src/data/botanical.json",
+    "src/data/digital.json",
+    "src/data/graphic.json",
+    "src/data/landscape.json",
+    "src/data/motion.json",
+    "src/data/spatial.json",
+    "src/data/studies.json",
+    "src/main.jsx",
+    "src/personal.json"
+  ],
+  "coverage_policy": "Union of V2 shipped cmap, V2 character snapshot, all current src/**/*.jsx and src/**/*.json, ASCII and common punctuation. No V2 codepoint removed.",
+  "source_origin": "Verified complete originals from existing TEMP cache. No network requests.",
+  "fonts": [
+    {
+      "source_family": "Noto Sans SC",
+      "family": "Portfolio Sans SC",
+      "file": "portfolio-sans-sc-v3.woff2",
+      "weight": [
+        400,
+        600
+      ],
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanssc/NotoSansSC%5Bwght%5D.ttf",
+      "source_bytes": 17772300,
+      "source_git_blob": "fb0637bafbcd804fe32152370a1225990745b4bc",
+      "source_sha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+      "source_version": "Version 2.004-H2;hotconv 1.0.118;makeotfexe 2.5.65603",
+      "license_file": "NotoSansSC-OFL.txt",
+      "bytes": 178116,
+      "glyph_count": 835,
+      "covered_codepoints": 811,
+      "missing_cjk": [],
+      "sha256": "845c871c28afea4bb8952dace1a043609f9fd5509a4bd018f68651e4ef2fa907",
+      "axes": [
+        {
+          "tag": "wght",
+          "min": 400.0,
+          "default": 400.0,
+          "max": 600.0
+        }
+      ],
+      "previous_coverage_preserved": true,
+      "added_codepoints": [
+        "U+2193",
+        "U+25B6",
+        "U+6240",
+        "U+65E0",
+        "U+6EDA"
+      ],
+      "added_characters": "↓▶所无滚"
+    },
+    {
+      "source_family": "Noto Serif SC",
+      "family": "Portfolio Serif SC",
+      "file": "portfolio-serif-sc-v3.woff2",
+      "weight": 400,
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notoserifsc/NotoSerifSC%5Bwght%5D.ttf",
+      "source_bytes": 25125512,
+      "source_git_blob": "eab063faf229160a52d3760f5555150e4eb9e5bf",
+      "source_sha256": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9",
+      "source_version": "Version 2.003-H1;hotconv 1.1.1;makeotfexe 2.6.0",
+      "license_file": "NotoSerifSC-OFL.txt",
+      "bytes": 133316,
+      "glyph_count": 835,
+      "covered_codepoints": 811,
+      "missing_cjk": [],
+      "sha256": "237d23435ef5cd5cb07c1d67c804c2e00a71c0741a2389ae3090128bbdc4dfa2",
+      "axes": [],
+      "previous_coverage_preserved": true,
+      "added_codepoints": [
+        "U+2193",
+        "U+25B6",
+        "U+6240",
+        "U+65E0",
+        "U+6EDA"
+      ],
+      "added_characters": "↓▶所无滚"
+    }
+  ]
+}

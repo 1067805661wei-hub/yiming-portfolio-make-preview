@@ -1,0 +1,231 @@
+[
+  {
+    "id": "plant-reference",
+    "category": "botanical",
+    "title": {
+      "zh": "植物参考册",
+      "en": "A Personal Plant Reference"
+    },
+    "subtitle": {
+      "zh": "植物观察、插画与编辑设计 · 88 页 / 35 种",
+      "en": "Observation, illustration and editorial design · 88 pages / 35 species"
+    },
+    "year": "2026",
+    "status": "wip",
+    "cover": "/assets/botanical/plant-reference/page-06.webp",
+    "images": [
+      {
+        "src": "/assets/botanical/plant-reference/page-05.webp",
+        "caption": {
+          "zh": "植物参考册 · 精选第 5 页",
+          "en": "Plant reference · selected page 5"
+        },
+        "width": 1867,
+        "height": 2400
+      },
+      {
+        "src": "/assets/botanical/plant-reference/page-06.webp",
+        "caption": {
+          "zh": "植物参考册 · 精选第 6 页",
+          "en": "Plant reference · selected page 6"
+        },
+        "width": 1867,
+        "height": 2400
+      },
+      {
+        "src": "/assets/botanical/plant-reference/page-07.webp",
+        "caption": {
+          "zh": "植物参考册 · 精选第 7 页",
+          "en": "Plant reference · selected page 7"
+        },
+        "width": 1867,
+        "height": 2400
+      },
+      {
+        "src": "/assets/botanical/plant-reference/page-12.webp",
+        "caption": {
+          "zh": "植物参考册 · 精选第 12 页",
+          "en": "Plant reference · selected page 12"
+        },
+        "width": 1867,
+        "height": 2400
+      },
+      {
+        "src": "/assets/botanical/plant-reference/page-14.webp",
+        "caption": {
+          "zh": "植物参考册 · 精选第 14 页",
+          "en": "Plant reference · selected page 14"
+        },
+        "width": 1867,
+        "height": 2400
+      },
+      {
+        "src": "/assets/botanical/plant-reference/page-15.webp",
+        "caption": {
+          "zh": "植物参考册 · 精选第 15 页",
+          "en": "Plant reference · selected page 15"
+        },
+        "width": 1867,
+        "height": 2400
+      },
+      {
+        "src": "/assets/botanical/plant-reference/page-24.webp",
+        "caption": {
+          "zh": "植物参考册 · 精选第 24 页",
+          "en": "Plant reference · selected page 24"
+        },
+        "width": 1867,
+        "height": 2400
+      },
+      {
+        "src": "/assets/botanical/plant-reference/page-26.webp",
+        "caption": {
+          "zh": "植物参考册 · 精选第 26 页",
+          "en": "Plant reference · selected page 26"
+        },
+        "width": 1867,
+        "height": 2400
+      },
+      {
+        "src": "/assets/botanical/plant-reference/page-35.webp",
+        "caption": {
+          "zh": "植物参考册 · 精选第 35 页",
+          "en": "Plant reference · selected page 35"
+        },
+        "width": 1867,
+        "height": 2400
+      },
+      {
+        "src": "/assets/botanical/plant-reference/page-36.webp",
+        "caption": {
+          "zh": "植物参考册 · 精选第 36 页",
+          "en": "Plant reference · selected page 36"
+        },
+        "width": 1867,
+        "height": 2400
+      },
+      {
+        "src": "/assets/botanical/plant-reference/page-40.webp",
+        "caption": {
+          "zh": "植物参考册 · 精选第 40 页",
+          "en": "Plant reference · selected page 40"
+        },
+        "width": 1867,
+        "height": 2400
+      },
+      {
+        "src": "/assets/botanical/plant-reference/page-41.webp",
+        "caption": {
+          "zh": "植物参考册 · 精选第 41 页",
+          "en": "Plant reference · selected page 41"
+        },
+        "width": 1867,
+        "height": 2400
+      },
+      {
+        "src": "/assets/botanical/plant-reference/page-43.webp",
+        "caption": {
+          "zh": "植物参考册 · 精选第 43 页",
+          "en": "Plant reference · selected page 43"
+        },
+        "width": 1867,
+        "height": 2400
+      },
+      {
+        "src": "/assets/botanical/plant-reference/page-44.webp",
+        "caption": {
+          "zh": "植物参考册 · 精选第 44 页",
+          "en": "Plant reference · selected page 44"
+        },
+        "width": 1867,
+        "height": 2400
+      },
+      {
+        "src": "/assets/botanical/plant-reference/page-72.webp",
+        "caption": {
+          "zh": "植物参考册 · 精选第 72 页",
+          "en": "Plant reference · selected page 72"
+        },
+        "width": 1867,
+        "height": 2400
+      },
+      {
+        "src": "/assets/botanical/plant-reference/page-84.webp",
+        "caption": {
+          "zh": "植物参考册 · 精选第 84 页",
+          "en": "Plant reference · selected page 84"
+        },
+        "width": 1867,
+        "height": 2400
+      }
+    ],
+    "description": {
+      "zh": "把三次课程实地观察整理为可持续扩充的植物参考册，连接现场图像、植物信息、插画与版式实验。当前 V4 包含 35 种植物、88 页，仍在向 40 种的课程目标扩展。网页节选避开课程封面的占位内容。",
+      "en": "An evolving plant reference connecting field images, botanical information, illustration and editorial experiments across three course field walks. Version 4 contains 35 species across 88 pages and remains in progress toward a 40-species course scope. These web selections omit administrative cover placeholders."
+    },
+    "role": {
+      "zh": "植物参考与编辑设计，含 AI 辅助图像探索；观察文字、图像来源与辅助范围将继续核对。",
+      "en": "Plant reference and editorial design, including AI-assisted image exploration; observation text, image sources and assistance notes remain under review."
+    },
+    "tools": [
+      "InDesign",
+      "AI-assisted imagery"
+    ]
+  },
+  {
+    "id": "harbour-edge-grove",
+    "category": "botanical",
+    "title": {
+      "zh": "港缘林地",
+      "en": "Harbour Edge Grove"
+    },
+    "subtitle": {
+      "zh": "种植设计 · 生长、季相与长期管理",
+      "en": "Planting design · growth, seasons and long-term care"
+    },
+    "year": "2026",
+    "status": "wip",
+    "cover": "/assets/botanical/harbour-edge-grove/cover.webp",
+    "images": [
+      {
+        "src": "/assets/botanical/harbour-edge-grove/section-01.webp",
+        "caption": {
+          "zh": "五年 · 夏季",
+          "en": "Year 5 · summer"
+        },
+        "width": 2400,
+        "height": 1611
+      },
+      {
+        "src": "/assets/botanical/harbour-edge-grove/section-02.webp",
+        "caption": {
+          "zh": "二十年 · 四月",
+          "en": "Year 20 · April"
+        },
+        "width": 2400,
+        "height": 1611
+      },
+      {
+        "src": "/assets/botanical/harbour-edge-grove/section-03.webp",
+        "caption": {
+          "zh": "五十年 · 一月",
+          "en": "Year 50 · January"
+        },
+        "width": 2400,
+        "height": 1611
+      }
+    ],
+    "description": {
+      "zh": "以同一场地剖面比较初植后五年、二十年和五十年的植物空间，结合季相与管理情景。模型场地线与矢量植物表达分层制作；未来生长是设计情景，并非保证预测。",
+      "en": "A planting study comparing year-five, year-twenty and year-fifty spatial conditions along one site section, alongside seasonal and management scenarios. Model-derived site lines and vector planting elevations are developed separately; future growth is an illustrative design scenario rather than a guaranteed prediction."
+    },
+    "role": {
+      "zh": "个人课程种植设计；AI 辅助范围及过程署名待补。",
+      "en": "Individual course planting study; AI-assistance and process credits to be completed."
+    },
+    "tools": [
+      "Rhino",
+      "CAD"
+    ]
+  }
+]

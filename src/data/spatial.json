@@ -1,0 +1,354 @@
+[
+  {
+    "id": "spatial-autumn-valley",
+    "category": "spatial",
+    "title": {
+      "zh": "城堡与秋季河谷",
+      "en": "Castle & Autumn Valley"
+    },
+    "subtitle": {
+      "zh": "UE5 / 自然环境",
+      "en": "UE5 / Natural environment"
+    },
+    "year": "—",
+    "status": "ready",
+    "description": {
+      "zh": "以秋季河谷和山地城堡构成的环境场景。水面、植被与远山形成不同距离的层次，两张视图呈现场景的整体氛围。",
+      "en": "An environment scene composed around an autumn valley and a mountain castle. Water, vegetation and distant mountains establish depth across two views."
+    },
+    "role": {
+      "zh": "场景构建与视觉表达",
+      "en": "Environment scene construction and visual presentation"
+    },
+    "tools": [
+      "Unreal Engine 5"
+    ],
+    "images": [
+      {
+        "src": "/assets/spatial/spatial-autumn-valley/01.webp",
+        "caption": {
+          "zh": "河谷全景",
+          "en": "Valley panorama"
+        },
+        "width": 2000,
+        "height": 1238
+      },
+      {
+        "src": "/assets/spatial/spatial-autumn-valley/02.webp",
+        "caption": {
+          "zh": "城堡侧景",
+          "en": "Castle side view"
+        },
+        "width": 2000,
+        "height": 1238
+      }
+    ],
+    "cover": "/assets/spatial/spatial-autumn-valley/01.webp"
+  },
+  {
+    "id": "spatial-japanese-neighborhood",
+    "category": "spatial",
+    "title": {
+      "zh": "日本居民街区",
+      "en": "Japanese Residential Street"
+    },
+    "subtitle": {
+      "zh": "Blender / UE5 / 街区场景",
+      "en": "Blender / UE5 / Street environment"
+    },
+    "year": "—",
+    "status": "ready",
+    "description": {
+      "zh": "以日式住宅、道路和街道设施组织街区场景。整体与低机位视图呈现建筑尺度、日光和街道细节之间的关系。",
+      "en": "A residential street environment arranged with houses, roads and street details. An overview and a low-angle view explore scale, daylight and the street's spatial character."
+    },
+    "role": {
+      "zh": "场景构建与视觉表达",
+      "en": "Environment scene construction and visual presentation"
+    },
+    "tools": [
+      "Blender",
+      "Unreal Engine 5"
+    ],
+    "images": [
+      {
+        "src": "/assets/spatial/spatial-japanese-neighborhood/01.webp",
+        "caption": {
+          "zh": "街区全景",
+          "en": "Neighborhood overview"
+        },
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "src": "/assets/spatial/spatial-japanese-neighborhood/02.webp",
+        "caption": {
+          "zh": "低机位街景",
+          "en": "Low-angle street view"
+        },
+        "width": 2000,
+        "height": 1125
+      }
+    ],
+    "cover": "/assets/spatial/spatial-japanese-neighborhood/01.webp"
+  },
+  {
+    "id": "spatial-cyberpunk-alley",
+    "category": "spatial",
+    "title": {
+      "zh": "赛博朋克雨夜街巷",
+      "en": "Cyberpunk Alley in the Rain"
+    },
+    "subtitle": {
+      "zh": "UE5 / 夜景氛围",
+      "en": "UE5 / Night-time atmosphere"
+    },
+    "year": "—",
+    "status": "ready",
+    "description": {
+      "zh": "以霓虹、潮湿地面和街巷尺度构成的夜景实验。反射与不同色温的光线共同组织画面的深度。",
+      "en": "A night-time environment study built around neon, wet surfaces and the scale of an alley. Reflections and contrasting light temperatures shape the depth of the image."
+    },
+    "role": {
+      "zh": "场景构建与视觉表达",
+      "en": "Environment scene construction and visual presentation"
+    },
+    "tools": [
+      "Unreal Engine 5"
+    ],
+    "images": [
+      {
+        "src": "/assets/spatial/spatial-cyberpunk-alley/01.webp",
+        "caption": {
+          "zh": "雨夜街巷",
+          "en": "Rain-soaked night alley"
+        },
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    "cover": "/assets/spatial/spatial-cyberpunk-alley/01.webp"
+  },
+  {
+    "id": "spatial-moroccan-courtyard",
+    "category": "spatial",
+    "title": {
+      "zh": "摩洛哥内院",
+      "en": "Moroccan Courtyard"
+    },
+    "subtitle": {
+      "zh": "Blender / UE5 / 建筑空间",
+      "en": "Blender / UE5 / Architectural space"
+    },
+    "year": "—",
+    "status": "ready",
+    "description": {
+      "zh": "围绕中央水景、柱廊与庭院开口构成的建筑环境。两张视图分别观察整体秩序、材料细节和光影关系。",
+      "en": "An architectural environment arranged around a central water feature, arcades and courtyard openings. Two views examine spatial order, material details and light."
+    },
+    "role": {
+      "zh": "场景构建与视觉表达",
+      "en": "Environment scene construction and visual presentation"
+    },
+    "tools": [
+      "Blender",
+      "Unreal Engine 5"
+    ],
+    "images": [
+      {
+        "src": "/assets/spatial/spatial-moroccan-courtyard/01.webp",
+        "caption": {
+          "zh": "中央庭院",
+          "en": "Central courtyard"
+        },
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "src": "/assets/spatial/spatial-moroccan-courtyard/02.webp",
+        "caption": {
+          "zh": "拱廊视角",
+          "en": "Arcade view"
+        },
+        "width": 2000,
+        "height": 1125
+      }
+    ],
+    "cover": "/assets/spatial/spatial-moroccan-courtyard/01.webp"
+  },
+  {
+    "id": "spatial-abandoned-house",
+    "category": "spatial",
+    "title": {
+      "zh": "废弃木屋",
+      "en": "Abandoned Wooden House"
+    },
+    "subtitle": {
+      "zh": "Blender / 环境叙事",
+      "en": "Blender / Environmental narrative"
+    },
+    "year": "—",
+    "status": "ready",
+    "description": {
+      "zh": "一座被植被包围的木屋场景。建筑表面、院落与自然生长的细节共同形成废弃环境的氛围。",
+      "en": "A wooden house surrounded by vegetation. Building surfaces, the yard and overgrown details create the atmosphere of an abandoned environment."
+    },
+    "role": {
+      "zh": "场景构建与视觉表达",
+      "en": "Environment scene construction and visual presentation"
+    },
+    "tools": [
+      "Blender"
+    ],
+    "images": [
+      {
+        "src": "/assets/spatial/spatial-abandoned-house/01.webp",
+        "caption": {
+          "zh": "废弃木屋场景",
+          "en": "Abandoned house scene"
+        },
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    "cover": "/assets/spatial/spatial-abandoned-house/01.webp"
+  },
+  {
+    "id": "spatial-mushroom-house",
+    "category": "spatial",
+    "title": {
+      "zh": "森林蘑菇小屋",
+      "en": "Mushroom House in the Forest"
+    },
+    "subtitle": {
+      "zh": "Blender / 风格化场景",
+      "en": "Blender / Stylized environment"
+    },
+    "year": "—",
+    "status": "ready",
+    "description": {
+      "zh": "以蘑菇形态的小屋为中心构成的森林场景。成品与灰模并置，展示体量构成、场景布局与最终氛围之间的关系。",
+      "en": "A forest environment centered on a mushroom-shaped house. The final render and clay view are shown together to connect massing, scene layout and atmosphere."
+    },
+    "role": {
+      "zh": "场景构建与视觉表达",
+      "en": "Environment scene construction and visual presentation"
+    },
+    "tools": [
+      "Blender"
+    ],
+    "images": [
+      {
+        "src": "/assets/spatial/spatial-mushroom-house/01.webp",
+        "caption": {
+          "zh": "森林蘑菇小屋成品",
+          "en": "Mushroom house final render"
+        },
+        "width": 1920,
+        "height": 1100
+      },
+      {
+        "src": "/assets/spatial/spatial-mushroom-house/02.webp",
+        "caption": {
+          "zh": "对应灰模",
+          "en": "Corresponding clay view"
+        },
+        "width": 1920,
+        "height": 1100
+      }
+    ],
+    "cover": "/assets/spatial/spatial-mushroom-house/01.webp"
+  },
+  {
+    "id": "spatial-abandoned-camp",
+    "category": "spatial",
+    "title": {
+      "zh": "废弃军事营地",
+      "en": "Abandoned Military Camp"
+    },
+    "subtitle": {
+      "zh": "UE5 / 光照与地编",
+      "en": "UE5 / Lighting and environment art"
+    },
+    "year": "—",
+    "status": "ready",
+    "description": {
+      "zh": "在室内外光线交界处组织废弃营地场景。成品与白模光照过程并置，观察构图和明暗关系的变化。",
+      "en": "An abandoned camp scene arranged at the transition between interior and exterior light. The final image and blockout lighting view show the development of composition and tonal relationships."
+    },
+    "role": {
+      "zh": "场景构建与视觉表达",
+      "en": "Environment scene construction and visual presentation"
+    },
+    "tools": [
+      "Unreal Engine 5"
+    ],
+    "images": [
+      {
+        "src": "/assets/spatial/spatial-abandoned-camp/01.webp",
+        "caption": {
+          "zh": "废弃营地成品",
+          "en": "Abandoned camp final render"
+        },
+        "width": 920,
+        "height": 518
+      },
+      {
+        "src": "/assets/spatial/spatial-abandoned-camp/02.webp",
+        "caption": {
+          "zh": "白模与光照过程",
+          "en": "Blockout and lighting study"
+        },
+        "width": 920,
+        "height": 518
+      }
+    ],
+    "cover": "/assets/spatial/spatial-abandoned-camp/01.webp"
+  },
+  {
+    "id": "spatial-abandoned-temple",
+    "category": "spatial",
+    "title": {
+      "zh": "日式废寺",
+      "en": "Abandoned Japanese Temple"
+    },
+    "subtitle": {
+      "zh": "UE5 / 植被与建筑环境",
+      "en": "UE5 / Vegetation and architecture"
+    },
+    "year": "—",
+    "status": "ready",
+    "description": {
+      "zh": "以林下阶梯、入口与寺院建筑构成的废寺环境。两个视角关注植被遮挡、路径引导与空间纵深。",
+      "en": "A temple environment composed of forest steps, an entrance and architectural elements. Two views explore vegetation, the approach and spatial depth."
+    },
+    "role": {
+      "zh": "场景构建与视觉表达",
+      "en": "Environment scene construction and visual presentation"
+    },
+    "tools": [
+      "Unreal Engine 5"
+    ],
+    "images": [
+      {
+        "src": "/assets/spatial/spatial-abandoned-temple/01.webp",
+        "caption": {
+          "zh": "废寺入口",
+          "en": "Temple entrance"
+        },
+        "width": 920,
+        "height": 518
+      },
+      {
+        "src": "/assets/spatial/spatial-abandoned-temple/02.webp",
+        "caption": {
+          "zh": "废寺另一视角",
+          "en": "Alternative temple view"
+        },
+        "width": 920,
+        "height": 518
+      }
+    ],
+    "cover": "/assets/spatial/spatial-abandoned-temple/01.webp"
+  }
+]

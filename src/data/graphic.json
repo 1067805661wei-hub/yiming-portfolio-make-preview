@@ -1,0 +1,1104 @@
+[
+  {
+    "id": "graphic-k-black",
+    "category": "graphic",
+    "title": {
+      "zh": "K 黑系列电商视觉",
+      "en": "K Black Series - E-commerce Visuals"
+    },
+    "subtitle": {
+      "zh": "产品传播 / 电商图像",
+      "en": "Product communication / E-commerce imagery"
+    },
+    "year": "2026",
+    "status": "ready",
+    "description": {
+      "zh": "围绕泳池清洁机器人的产品形态和功能组织一组电商视觉。主视觉与功能画面共同形成连续的产品介绍。",
+      "en": "An e-commerce image series for a pool-cleaning robot, bringing the product form and its features into a consistent visual sequence."
+    },
+    "role": {
+      "zh": "产品视觉表达与图像编排",
+      "en": "Product visual communication and image layout"
+    },
+    "tools": [],
+    "images": [
+      {
+        "src": "/assets/graphic/graphic-k-black/01.webp",
+        "caption": {
+          "zh": "K 黑系列 · 视觉画面 01",
+          "en": "K Black Series · Visual 01"
+        },
+        "width": 1464,
+        "height": 600
+      },
+      {
+        "src": "/assets/graphic/graphic-k-black/02.webp",
+        "caption": {
+          "zh": "K 黑系列 · 视觉画面 02",
+          "en": "K Black Series · Visual 02"
+        },
+        "width": 1464,
+        "height": 600
+      },
+      {
+        "src": "/assets/graphic/graphic-k-black/03.webp",
+        "caption": {
+          "zh": "K 黑系列 · 视觉画面 03",
+          "en": "K Black Series · Visual 03"
+        },
+        "width": 1464,
+        "height": 600
+      },
+      {
+        "src": "/assets/graphic/graphic-k-black/04.webp",
+        "caption": {
+          "zh": "K 黑系列 · 视觉画面 04",
+          "en": "K Black Series · Visual 04"
+        },
+        "width": 1464,
+        "height": 600
+      },
+      {
+        "src": "/assets/graphic/graphic-k-black/05.webp",
+        "caption": {
+          "zh": "K 黑系列 · 视觉画面 05",
+          "en": "K Black Series · Visual 05"
+        },
+        "width": 1464,
+        "height": 600
+      },
+      {
+        "src": "/assets/graphic/graphic-k-black/06.webp",
+        "caption": {
+          "zh": "K 黑系列 · 视觉画面 06",
+          "en": "K Black Series · Visual 06"
+        },
+        "width": 1464,
+        "height": 600
+      }
+    ],
+    "cover": "/assets/graphic/graphic-k-black/01.webp"
+  },
+  {
+    "id": "graphic-k-blue",
+    "category": "graphic",
+    "title": {
+      "zh": "K 蓝系列电商视觉",
+      "en": "K Blue Series - E-commerce Visuals"
+    },
+    "subtitle": {
+      "zh": "产品场景 / 多尺寸延展",
+      "en": "Product scenes / Format adaptations"
+    },
+    "year": "2026",
+    "status": "ready",
+    "description": {
+      "zh": "蓝色产品在水下与功能场景中的视觉表达。不同语言和画幅作为同一项目的延展，水下仰视画面保留为空间感较强的图像实验。",
+      "en": "A visual series placing the blue product in underwater and feature-led scenes. Language and format variations belong to one project, with an underwater low-angle composition extending the spatial imagery."
+    },
+    "role": {
+      "zh": "产品图像处理与版式设计",
+      "en": "Product image treatment and layout design"
+    },
+    "tools": [
+      "Adobe Photoshop"
+    ],
+    "images": [
+      {
+        "src": "/assets/graphic/graphic-k-blue/01.webp",
+        "caption": {
+          "zh": "K 蓝系列 · 视觉画面 01",
+          "en": "K Blue Series · Visual 01"
+        },
+        "width": 1300,
+        "height": 635
+      },
+      {
+        "src": "/assets/graphic/graphic-k-blue/02.webp",
+        "caption": {
+          "zh": "K 蓝系列 · 视觉画面 02",
+          "en": "K Blue Series · Visual 02"
+        },
+        "width": 1300,
+        "height": 635
+      },
+      {
+        "src": "/assets/graphic/graphic-k-blue/03.webp",
+        "caption": {
+          "zh": "K 蓝系列 · 视觉画面 03",
+          "en": "K Blue Series · Visual 03"
+        },
+        "width": 1300,
+        "height": 635
+      },
+      {
+        "src": "/assets/graphic/graphic-k-blue/04.webp",
+        "caption": {
+          "zh": "K 蓝系列 · 视觉画面 04",
+          "en": "K Blue Series · Visual 04"
+        },
+        "width": 1300,
+        "height": 533
+      },
+      {
+        "src": "/assets/graphic/graphic-k-blue/05.webp",
+        "caption": {
+          "zh": "K 蓝系列 · 视觉画面 05",
+          "en": "K Blue Series · Visual 05"
+        },
+        "width": 1300,
+        "height": 533
+      },
+      {
+        "src": "/assets/graphic/graphic-k-blue/06.webp",
+        "caption": {
+          "zh": "K 蓝系列 · 视觉画面 06",
+          "en": "K Blue Series · Visual 06"
+        },
+        "width": 1040,
+        "height": 1300
+      },
+      {
+        "src": "/assets/graphic/graphic-k-blue/07.webp",
+        "caption": {
+          "zh": "水下仰视 · 视觉画面 01",
+          "en": "Underwater Perspective · Visual 01"
+        },
+        "width": 1000,
+        "height": 750
+      }
+    ],
+    "cover": "/assets/graphic/graphic-k-blue/01.webp"
+  },
+  {
+    "id": "graphic-kn-functions",
+    "category": "graphic",
+    "title": {
+      "zh": "黑橙款功能图组",
+      "en": "Black & Orange - Feature Imagery"
+    },
+    "subtitle": {
+      "zh": "电商信息 / 产品图解",
+      "en": "E-commerce information / Product diagrams"
+    },
+    "year": "2026",
+    "status": "ready",
+    "description": {
+      "zh": "以黑橙产品为主体，把吸力、路径和使用方式等信息转成图像与文字的组合。保留一组不同功能画面作为完整浏览序列。",
+      "en": "A feature-image series combining product imagery, diagrams and text around a black-and-orange robot. The images are presented as a single sequence rather than separate format exports."
+    },
+    "role": {
+      "zh": "功能图像与视觉信息编排",
+      "en": "Feature imagery and visual information layout"
+    },
+    "tools": [],
+    "images": [
+      {
+        "src": "/assets/graphic/graphic-kn-functions/01.webp",
+        "caption": {
+          "zh": "黑橙功能图 · 视觉画面 01",
+          "en": "Black & Orange Features · Visual 01"
+        },
+        "width": 1300,
+        "height": 533
+      },
+      {
+        "src": "/assets/graphic/graphic-kn-functions/02.webp",
+        "caption": {
+          "zh": "黑橙功能图 · 视觉画面 02",
+          "en": "Black & Orange Features · Visual 02"
+        },
+        "width": 1300,
+        "height": 1300
+      },
+      {
+        "src": "/assets/graphic/graphic-kn-functions/03.webp",
+        "caption": {
+          "zh": "黑橙功能图 · 视觉画面 03",
+          "en": "Black & Orange Features · Visual 03"
+        },
+        "width": 1300,
+        "height": 533
+      },
+      {
+        "src": "/assets/graphic/graphic-kn-functions/04.webp",
+        "caption": {
+          "zh": "黑橙功能图 · 视觉画面 04",
+          "en": "Black & Orange Features · Visual 04"
+        },
+        "width": 1300,
+        "height": 533
+      },
+      {
+        "src": "/assets/graphic/graphic-kn-functions/05.webp",
+        "caption": {
+          "zh": "黑橙功能图 · 视觉画面 05",
+          "en": "Black & Orange Features · Visual 05"
+        },
+        "width": 600,
+        "height": 450
+      },
+      {
+        "src": "/assets/graphic/graphic-kn-functions/06.webp",
+        "caption": {
+          "zh": "黑橙功能图 · 视觉画面 06",
+          "en": "Black & Orange Features · Visual 06"
+        },
+        "width": 600,
+        "height": 450
+      }
+    ],
+    "cover": "/assets/graphic/graphic-kn-functions/01.webp"
+  },
+  {
+    "id": "graphic-k-ai-editorial",
+    "category": "graphic",
+    "title": {
+      "zh": "K AI 系列产品画册",
+      "en": "K AI Series - Product Brochure"
+    },
+    "subtitle": {
+      "zh": "编辑设计 / 产品叙事",
+      "en": "Editorial design / Product narrative"
+    },
+    "year": "2026",
+    "status": "ready",
+    "description": {
+      "zh": "通过跨页图像、标题和参数信息组织产品画册。展示同一母版的连续页面，让产品图像与信息层级共同承担阅读节奏。",
+      "en": "A product brochure structured through spreads, imagery, headings and technical information. Consecutive pages from one version show the relationship between visual rhythm and information hierarchy."
+    },
+    "role": {
+      "zh": "画册视觉与版式设计",
+      "en": "Brochure visuals and editorial layout"
+    },
+    "tools": [
+      "Adobe Illustrator"
+    ],
+    "images": [
+      {
+        "src": "/assets/graphic/graphic-k-ai-editorial/01.webp",
+        "caption": {
+          "zh": "K AI 产品画册 · 视觉画面 01",
+          "en": "K AI Product Brochure · Visual 01"
+        },
+        "width": 1000,
+        "height": 327
+      },
+      {
+        "src": "/assets/graphic/graphic-k-ai-editorial/02.webp",
+        "caption": {
+          "zh": "K AI 产品画册 · 视觉画面 02",
+          "en": "K AI Product Brochure · Visual 02"
+        },
+        "width": 1000,
+        "height": 327
+      },
+      {
+        "src": "/assets/graphic/graphic-k-ai-editorial/03.webp",
+        "caption": {
+          "zh": "K AI 产品画册 · 视觉画面 03",
+          "en": "K AI Product Brochure · Visual 03"
+        },
+        "width": 1000,
+        "height": 327
+      },
+      {
+        "src": "/assets/graphic/graphic-k-ai-editorial/04.webp",
+        "caption": {
+          "zh": "K AI 产品画册 · 视觉画面 04",
+          "en": "K AI Product Brochure · Visual 04"
+        },
+        "width": 1000,
+        "height": 327
+      },
+      {
+        "src": "/assets/graphic/graphic-k-ai-editorial/05.webp",
+        "caption": {
+          "zh": "K AI 产品画册 · 视觉画面 05",
+          "en": "K AI Product Brochure · Visual 05"
+        },
+        "width": 1000,
+        "height": 327
+      },
+      {
+        "src": "/assets/graphic/graphic-k-ai-editorial/06.webp",
+        "caption": {
+          "zh": "K AI 产品画册 · 视觉画面 06",
+          "en": "K AI Product Brochure · Visual 06"
+        },
+        "width": 1000,
+        "height": 327
+      }
+    ],
+    "cover": "/assets/graphic/graphic-k-ai-editorial/01.webp"
+  },
+  {
+    "id": "graphic-m1-editorial",
+    "category": "graphic",
+    "title": {
+      "zh": "M1 系列画册与折页",
+      "en": "M1 Series - Brochures & Leaflets"
+    },
+    "subtitle": {
+      "zh": "紧凑信息 / 多语种排版",
+      "en": "Compact information / Multilingual layout"
+    },
+    "year": "2026",
+    "status": "ready",
+    "description": {
+      "zh": "在有限的折页面积中组织产品特征、图像和参数。不同语言及参数修订归入同一项目，重点呈现信息密度与阅读层级。",
+      "en": "Product features, images and specifications arranged within a compact leaflet format. Language editions and specification revisions remain part of the same editorial project."
+    },
+    "role": {
+      "zh": "产品资料排版与版本适配",
+      "en": "Product literature layout and version adaptation"
+    },
+    "tools": [
+      "Adobe Illustrator",
+      "Adobe InDesign"
+    ],
+    "images": [
+      {
+        "src": "/assets/graphic/graphic-m1-editorial/01.webp",
+        "caption": {
+          "zh": "M1 系列折页 · 视觉画面 01",
+          "en": "M1 Series Leaflet · Visual 01"
+        },
+        "width": 1800,
+        "height": 1322
+      },
+      {
+        "src": "/assets/graphic/graphic-m1-editorial/02.webp",
+        "caption": {
+          "zh": "M1 系列折页 · 视觉画面 02",
+          "en": "M1 Series Leaflet · Visual 02"
+        },
+        "width": 1800,
+        "height": 1322
+      },
+      {
+        "src": "/assets/graphic/graphic-m1-editorial/03.webp",
+        "caption": {
+          "zh": "M1 系列折页 · 视觉画面 03",
+          "en": "M1 Series Leaflet · Visual 03"
+        },
+        "width": 1000,
+        "height": 550
+      },
+      {
+        "src": "/assets/graphic/graphic-m1-editorial/04.webp",
+        "caption": {
+          "zh": "M1 系列折页 · 视觉画面 04",
+          "en": "M1 Series Leaflet · Visual 04"
+        },
+        "width": 1000,
+        "height": 925
+      }
+    ],
+    "cover": "/assets/graphic/graphic-m1-editorial/01.webp"
+  },
+  {
+    "id": "graphic-k-vision-leaflet",
+    "category": "graphic",
+    "title": {
+      "zh": "K 视觉款多语折页",
+      "en": "K Vision Series - Multilingual Leaflet"
+    },
+    "subtitle": {
+      "zh": "编辑设计 / 图像与参数",
+      "en": "Editorial design / Imagery and specifications"
+    },
+    "year": "2026",
+    "status": "ready",
+    "description": {
+      "zh": "以双折页承载视觉款产品的信息与图像。英文页面与产品场景图共同展示版面和视觉资产之间的关系。",
+      "en": "A folded product leaflet combining information and imagery. English pages and product-scene images show how the layout works with its visual assets."
+    },
+    "role": {
+      "zh": "折页版式与产品视觉处理",
+      "en": "Leaflet layout and product image treatment"
+    },
+    "tools": [
+      "Adobe Photoshop",
+      "Adobe Illustrator"
+    ],
+    "images": [
+      {
+        "src": "/assets/graphic/graphic-k-vision-leaflet/01.webp",
+        "caption": {
+          "zh": "英文折页 · 第 1 页",
+          "en": "English leaflet · Page 1"
+        },
+        "width": 2400,
+        "height": 1763
+      },
+      {
+        "src": "/assets/graphic/graphic-k-vision-leaflet/02.webp",
+        "caption": {
+          "zh": "英文折页 · 第 2 页",
+          "en": "English leaflet · Page 2"
+        },
+        "width": 2400,
+        "height": 1763
+      },
+      {
+        "src": "/assets/graphic/graphic-k-vision-leaflet/03.webp",
+        "caption": {
+          "zh": "水下产品场景",
+          "en": "Underwater product scene"
+        },
+        "width": 2000,
+        "height": 1143
+      },
+      {
+        "src": "/assets/graphic/graphic-k-vision-leaflet/04.webp",
+        "caption": {
+          "zh": "产品视觉画面",
+          "en": "Product visual"
+        },
+        "width": 2000,
+        "height": 1116
+      }
+    ],
+    "cover": "/assets/graphic/graphic-k-vision-leaflet/01.webp"
+  },
+  {
+    "id": "graphic-s-editorial",
+    "category": "graphic",
+    "title": {
+      "zh": "S 系列画册与折页",
+      "en": "S Series - Editorial System"
+    },
+    "subtitle": {
+      "zh": "画册 / 双折页",
+      "en": "Brochure / Folded leaflet"
+    },
+    "year": "2026",
+    "status": "ready",
+    "description": {
+      "zh": "围绕同一产品系列制作画册与折页，用大幅场景图、局部细节与参数信息建立阅读顺序。不同载体在同一案例中展开。",
+      "en": "Brochures and folded leaflets for one product series. Large scene images, details and specifications establish a reading sequence across related formats."
+    },
+    "role": {
+      "zh": "编辑设计与产品资料排版",
+      "en": "Editorial design and product literature layout"
+    },
+    "tools": [
+      "Adobe Illustrator"
+    ],
+    "images": [
+      {
+        "src": "/assets/graphic/graphic-s-editorial/01.webp",
+        "caption": {
+          "zh": "S 系列 · 视觉画面 01",
+          "en": "S Series · Visual 01"
+        },
+        "width": 1000,
+        "height": 316
+      },
+      {
+        "src": "/assets/graphic/graphic-s-editorial/02.webp",
+        "caption": {
+          "zh": "S 系列 · 视觉画面 02",
+          "en": "S Series · Visual 02"
+        },
+        "width": 1000,
+        "height": 316
+      },
+      {
+        "src": "/assets/graphic/graphic-s-editorial/03.webp",
+        "caption": {
+          "zh": "S 系列 · 视觉画面 03",
+          "en": "S Series · Visual 03"
+        },
+        "width": 1000,
+        "height": 316
+      },
+      {
+        "src": "/assets/graphic/graphic-s-editorial/04.webp",
+        "caption": {
+          "zh": "S 系列 · 视觉画面 04",
+          "en": "S Series · Visual 04"
+        },
+        "width": 1000,
+        "height": 316
+      },
+      {
+        "src": "/assets/graphic/graphic-s-editorial/05.webp",
+        "caption": {
+          "zh": "S 系列 · 视觉画面 05",
+          "en": "S Series · Visual 05"
+        },
+        "width": 1000,
+        "height": 735
+      }
+    ],
+    "cover": "/assets/graphic/graphic-s-editorial/01.webp"
+  },
+  {
+    "id": "graphic-exhibition-posters",
+    "category": "graphic",
+    "title": {
+      "zh": "展台海报与画幅适配",
+      "en": "Exhibition Posters & Format Adaptations"
+    },
+    "subtitle": {
+      "zh": "展陈传播 / 大幅海报",
+      "en": "Exhibition communication / Large-format posters"
+    },
+    "year": "2026",
+    "status": "ready",
+    "description": {
+      "zh": "为展台与客户适配场景制作不同画幅的产品海报。产品主体、功能信息和品牌元素随观看距离与版面比例重新组织。",
+      "en": "Product posters adapted for exhibition and client-facing formats, arranging the product, feature information and brand elements across different proportions."
+    },
+    "role": {
+      "zh": "海报设计与画幅适配",
+      "en": "Poster design and format adaptation"
+    },
+    "tools": [
+      "Adobe Photoshop",
+      "Adobe Illustrator"
+    ],
+    "images": [
+      {
+        "src": "/assets/graphic/graphic-exhibition-posters/01.webp",
+        "caption": {
+          "zh": "S 系列展台海报",
+          "en": "S series exhibition poster"
+        },
+        "width": 1334,
+        "height": 2000
+      },
+      {
+        "src": "/assets/graphic/graphic-exhibition-posters/02.webp",
+        "caption": {
+          "zh": "S 系列海报延展",
+          "en": "S series poster variation"
+        },
+        "width": 1342,
+        "height": 2000
+      },
+      {
+        "src": "/assets/graphic/graphic-exhibition-posters/03.webp",
+        "caption": {
+          "zh": "水下场景海报",
+          "en": "Underwater-scene poster"
+        },
+        "width": 1342,
+        "height": 2000
+      },
+      {
+        "src": "/assets/graphic/graphic-exhibition-posters/04.webp",
+        "caption": {
+          "zh": "客户适配产品视觉",
+          "en": "Client-adapted product visual"
+        },
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "/assets/graphic/graphic-exhibition-posters/05.webp",
+        "caption": {
+          "zh": "长幅客户适配海报",
+          "en": "Tall-format client poster"
+        },
+        "width": 685,
+        "height": 2000
+      }
+    ],
+    "cover": "/assets/graphic/graphic-exhibition-posters/01.webp"
+  },
+  {
+    "id": "graphic-retail-display",
+    "category": "graphic",
+    "title": {
+      "zh": "零售与展览展示系统",
+      "en": "Retail & Exhibition Display System"
+    },
+    "subtitle": {
+      "zh": "空间传播 / 产品展示",
+      "en": "Spatial communication / Product display"
+    },
+    "year": "2026",
+    "status": "ready",
+    "description": {
+      "zh": "将产品、图像和说明信息放入零售展示场景。方案页面保留展示结构与注释，呈现平面传播在空间载体中的组织方式。",
+      "en": "A display proposal bringing products, graphics and information into a retail setting. Annotated pages reveal how visual communication is arranged on spatial display structures."
+    },
+    "role": {
+      "zh": "产品展示方案与视觉表达",
+      "en": "Product display proposal and visual communication"
+    },
+    "tools": [],
+    "images": [
+      {
+        "src": "/assets/graphic/graphic-retail-display/01.webp",
+        "caption": {
+          "zh": "零售与展览 · 视觉画面 01",
+          "en": "Retail & Exhibition · Visual 01"
+        },
+        "width": 1000,
+        "height": 563
+      },
+      {
+        "src": "/assets/graphic/graphic-retail-display/02.webp",
+        "caption": {
+          "zh": "零售与展览 · 视觉画面 02",
+          "en": "Retail & Exhibition · Visual 02"
+        },
+        "width": 1000,
+        "height": 563
+      },
+      {
+        "src": "/assets/graphic/graphic-retail-display/03.webp",
+        "caption": {
+          "zh": "零售与展览 · 视觉画面 03",
+          "en": "Retail & Exhibition · Visual 03"
+        },
+        "width": 1000,
+        "height": 563
+      },
+      {
+        "src": "/assets/graphic/graphic-retail-display/04.webp",
+        "caption": {
+          "zh": "零售与展览 · 视觉画面 04",
+          "en": "Retail & Exhibition · Visual 04"
+        },
+        "width": 1000,
+        "height": 563
+      }
+    ],
+    "cover": "/assets/graphic/graphic-retail-display/01.webp"
+  },
+  {
+    "id": "graphic-premium-campaign",
+    "category": "graphic",
+    "title": {
+      "zh": "邮件与发布视觉",
+      "en": "Email & Launch Visuals"
+    },
+    "subtitle": {
+      "zh": "商业主视觉 / 场景合成",
+      "en": "Campaign visuals / Image compositing"
+    },
+    "year": "2026",
+    "status": "ready",
+    "description": {
+      "zh": "围绕产品发布和邮件传播探索不同的主视觉构图。红黑双产品、深色画面与横幅版本作为相关子系列，展示同一传播语境下的视觉延展。",
+      "en": "Visual compositions for product launches and email communication. Red-and-black product pairings, dark-toned imagery and banners are presented as related variations within one communication context."
+    },
+    "role": {
+      "zh": "场景合成、图像处理与海报排版",
+      "en": "Image compositing, retouching and poster layout"
+    },
+    "tools": [
+      "Adobe Photoshop",
+      "Adobe Illustrator"
+    ],
+    "images": [
+      {
+        "src": "/assets/graphic/graphic-premium-campaign/01.webp",
+        "caption": {
+          "zh": "双产品发布视觉 · 视觉画面 01",
+          "en": "Dual-product Launch Visual · Visual 01"
+        },
+        "width": 791,
+        "height": 1000
+      },
+      {
+        "src": "/assets/graphic/graphic-premium-campaign/02.webp",
+        "caption": {
+          "zh": "双产品发布视觉 · 视觉画面 02",
+          "en": "Dual-product Launch Visual · Visual 02"
+        },
+        "width": 1128,
+        "height": 1400
+      },
+      {
+        "src": "/assets/graphic/graphic-premium-campaign/03.webp",
+        "caption": {
+          "zh": "双产品发布视觉 · 视觉画面 03",
+          "en": "Dual-product Launch Visual · Visual 03"
+        },
+        "width": 1128,
+        "height": 1400
+      },
+      {
+        "src": "/assets/graphic/graphic-premium-campaign/04.webp",
+        "caption": {
+          "zh": "双产品发布视觉 · 视觉画面 04",
+          "en": "Dual-product Launch Visual · Visual 04"
+        },
+        "width": 1289,
+        "height": 1600
+      },
+      {
+        "src": "/assets/graphic/graphic-premium-campaign/05.webp",
+        "caption": {
+          "zh": "邮件传播版面",
+          "en": "Email communication layout"
+        },
+        "width": 2000,
+        "height": 695
+      },
+      {
+        "src": "/assets/graphic/graphic-premium-campaign/06.webp",
+        "caption": {
+          "zh": "深色产品海报",
+          "en": "Dark-toned product poster"
+        },
+        "width": 1611,
+        "height": 2000
+      },
+      {
+        "src": "/assets/graphic/graphic-premium-campaign/07.webp",
+        "caption": {
+          "zh": "产品发布视觉延展",
+          "en": "Product launch visual variation"
+        },
+        "width": 1611,
+        "height": 2000
+      },
+      {
+        "src": "/assets/graphic/graphic-premium-campaign/08.webp",
+        "caption": {
+          "zh": "发布海报图像处理",
+          "en": "Launch poster image treatment"
+        },
+        "width": 1611,
+        "height": 2000
+      }
+    ],
+    "cover": "/assets/graphic/graphic-premium-campaign/01.webp"
+  },
+  {
+    "id": "graphic-product-retouch",
+    "category": "graphic",
+    "title": {
+      "zh": "产品图像处理",
+      "en": "Product Image Treatment"
+    },
+    "subtitle": {
+      "zh": "修图 / 视角一致性",
+      "en": "Retouching / View consistency"
+    },
+    "year": "2026",
+    "status": "ready",
+    "description": {
+      "zh": "针对产品表面与摄像头等细节进行图像处理，保留多个产品视角。以成组图像展示处理后的视觉一致性。",
+      "en": "Image treatment of product surfaces and camera details across several views, presented together to show the consistency of the resulting images."
+    },
+    "role": {
+      "zh": "产品图像修饰与细节处理",
+      "en": "Product retouching and detail treatment"
+    },
+    "tools": [
+      "Adobe Photoshop"
+    ],
+    "images": [
+      {
+        "src": "/assets/graphic/graphic-product-retouch/01.webp",
+        "caption": {
+          "zh": "产品处理后视图 01",
+          "en": "Retouched product view 01"
+        },
+        "width": 2000,
+        "height": 1130
+      },
+      {
+        "src": "/assets/graphic/graphic-product-retouch/02.webp",
+        "caption": {
+          "zh": "产品处理后视图 02",
+          "en": "Retouched product view 02"
+        },
+        "width": 2000,
+        "height": 1130
+      },
+      {
+        "src": "/assets/graphic/graphic-product-retouch/03.webp",
+        "caption": {
+          "zh": "产品处理后视图 03",
+          "en": "Retouched product view 03"
+        },
+        "width": 2000,
+        "height": 1130
+      },
+      {
+        "src": "/assets/graphic/graphic-product-retouch/04.webp",
+        "caption": {
+          "zh": "产品处理后视图 04",
+          "en": "Retouched product view 04"
+        },
+        "width": 2000,
+        "height": 1130
+      }
+    ],
+    "cover": "/assets/graphic/graphic-product-retouch/01.webp"
+  },
+  {
+    "id": "graphic-visual-style-study",
+    "category": "graphic",
+    "title": {
+      "zh": "宣传视觉风格探索",
+      "en": "Promotional Visual Studies"
+    },
+    "subtitle": {
+      "zh": "视觉实验 / AIGC 辅助",
+      "en": "Visual studies / AI-assisted imagery"
+    },
+    "year": "2026",
+    "status": "ready",
+    "description": {
+      "zh": "以产品宣传画面为基础，探索不同图像风格与版面关系。保留风格重绘和扩展画面，用于展示过程中的视觉方向尝试。",
+      "en": "An exploration of image styles and layout relationships around product communication. Restyled and extended images document visual directions tested during the process."
+    },
+    "role": {
+      "zh": "视觉方向探索与 AI 辅助图像实验",
+      "en": "Visual direction studies and AI-assisted image experiments"
+    },
+    "tools": [],
+    "images": [
+      {
+        "src": "/assets/graphic/graphic-visual-style-study/01.webp",
+        "caption": {
+          "zh": "风格重绘实验",
+          "en": "Restyling experiment"
+        },
+        "width": 2000,
+        "height": 848
+      },
+      {
+        "src": "/assets/graphic/graphic-visual-style-study/02.webp",
+        "caption": {
+          "zh": "画面扩展实验",
+          "en": "Image-extension experiment"
+        },
+        "width": 1584,
+        "height": 672
+      }
+    ],
+    "cover": "/assets/graphic/graphic-visual-style-study/01.webp"
+  },
+  {
+    "id": "graphic-quick-start-guide",
+    "category": "graphic",
+    "title": {
+      "zh": "多语种快速指南",
+      "en": "Multilingual Quick-start Guides"
+    },
+    "subtitle": {
+      "zh": "信息设计 / 使用说明",
+      "en": "Information design / Product instructions"
+    },
+    "year": "2026",
+    "status": "ready",
+    "description": {
+      "zh": "围绕产品使用步骤、图示和二维码组织快速指南。不同语言版本作为同一信息系统的适配，保留步骤与信息层级的清晰关系。",
+      "en": "Quick-start guides structured around product steps, diagrams and QR codes. Language editions are adaptations of one information system, keeping instructions and hierarchy legible."
+    },
+    "role": {
+      "zh": "使用说明排版与版本适配",
+      "en": "Instruction layout and version adaptation"
+    },
+    "tools": [
+      "Adobe Illustrator"
+    ],
+    "images": [
+      {
+        "src": "/assets/graphic/graphic-quick-start-guide/01.webp",
+        "caption": {
+          "zh": "德语快速指南 · 第 1 页",
+          "en": "German quick-start guide · Page 1"
+        },
+        "width": 2400,
+        "height": 2400
+      },
+      {
+        "src": "/assets/graphic/graphic-quick-start-guide/02.webp",
+        "caption": {
+          "zh": "德语快速指南 · 第 2 页",
+          "en": "German quick-start guide · Page 2"
+        },
+        "width": 2400,
+        "height": 2400
+      },
+      {
+        "src": "/assets/graphic/graphic-quick-start-guide/03.webp",
+        "caption": {
+          "zh": "法语快速指南 · 第 1 页",
+          "en": "French quick-start guide · Page 1"
+        },
+        "width": 2400,
+        "height": 2400
+      }
+    ],
+    "cover": "/assets/graphic/graphic-quick-start-guide/01.webp"
+  },
+  {
+    "id": "graphic-packaging-labels",
+    "category": "graphic",
+    "title": {
+      "zh": "包装侧唛与生产信息",
+      "en": "Packaging Labels & Production Information"
+    },
+    "subtitle": {
+      "zh": "标签排版 / 生产文件",
+      "en": "Label layout / Production artwork"
+    },
+    "year": "2026",
+    "status": "ready",
+    "description": {
+      "zh": "将型号、条码和产品信息组织在紧凑的包装侧唛中。不同型号的生产版面共同展示信息层级、对齐与尺寸限制下的排版。",
+      "en": "Compact packaging labels arranging model names, barcodes and product information. Related model layouts show information hierarchy and alignment within production constraints."
+    },
+    "role": {
+      "zh": "标签信息排版与生产文件整理",
+      "en": "Label information layout and production-artwork preparation"
+    },
+    "tools": [
+      "Adobe Illustrator"
+    ],
+    "images": [
+      {
+        "src": "/assets/graphic/graphic-packaging-labels/01.webp",
+        "caption": {
+          "zh": "M1 包装侧唛 · 第 1 页",
+          "en": "M1 packaging label · Page 1"
+        },
+        "width": 2400,
+        "height": 1697
+      },
+      {
+        "src": "/assets/graphic/graphic-packaging-labels/02.webp",
+        "caption": {
+          "zh": "M1 AI 包装侧唛 · 第 1 页",
+          "en": "M1 AI packaging label · Page 1"
+        },
+        "width": 2400,
+        "height": 1697
+      }
+    ],
+    "cover": "/assets/graphic/graphic-packaging-labels/01.webp"
+  },
+  {
+    "id": "graphic-racing-scenes",
+    "category": "graphic",
+    "title": {
+      "zh": "赛车主题产品场景",
+      "en": "Racing-inspired Product Scenes"
+    },
+    "subtitle": {
+      "zh": "图像合成 / 场景叙事",
+      "en": "Image compositing / Scene narrative"
+    },
+    "year": "2026",
+    "status": "ready",
+    "description": {
+      "zh": "把产品放入赛车场景与运动语境中，通过比例、光线和构图建立画面关系。几幅合成图作为同一主题的连续视觉实验。",
+      "en": "A compositing series placing the product in racing and motion contexts, using scale, lighting and composition to connect the elements within each scene."
+    },
+    "role": {
+      "zh": "产品场景合成与图像处理",
+      "en": "Product-scene compositing and image treatment"
+    },
+    "tools": [
+      "Adobe Photoshop"
+    ],
+    "images": [
+      {
+        "src": "/assets/graphic/graphic-racing-scenes/01.webp",
+        "caption": {
+          "zh": "赛车主题场景 · 视觉画面 01",
+          "en": "Racing-inspired Scene · Visual 01"
+        },
+        "width": 1000,
+        "height": 667
+      },
+      {
+        "src": "/assets/graphic/graphic-racing-scenes/02.webp",
+        "caption": {
+          "zh": "赛车主题场景 · 视觉画面 02",
+          "en": "Racing-inspired Scene · Visual 02"
+        },
+        "width": 1000,
+        "height": 646
+      },
+      {
+        "src": "/assets/graphic/graphic-racing-scenes/03.webp",
+        "caption": {
+          "zh": "赛车主题场景 · 视觉画面 03",
+          "en": "Racing-inspired Scene · Visual 03"
+        },
+        "width": 1000,
+        "height": 667
+      }
+    ],
+    "cover": "/assets/graphic/graphic-racing-scenes/01.webp"
+  },
+  {
+    "id": "graphic-lawn-mower",
+    "category": "graphic",
+    "title": {
+      "zh": "割草机产品传播",
+      "en": "Lawn Mower - Product Communication"
+    },
+    "subtitle": {
+      "zh": "产品广告 / 宣传资料",
+      "en": "Product advertising / Product literature"
+    },
+    "year": "—",
+    "status": "ready",
+    "description": {
+      "zh": "围绕割草机产品整理广告图像、Brochure 与宣传资料。以现有导出画面展示图像、标题和产品信息之间的版面关系。",
+      "en": "Advertising imagery, brochures and product literature for a lawn mower, shown through existing exports that combine images, headings and product information."
+    },
+    "role": {
+      "zh": "产品广告与宣传资料设计",
+      "en": "Product advertising and literature design"
+    },
+    "tools": [
+      "Adobe Illustrator",
+      "Adobe Photoshop"
+    ],
+    "images": [
+      {
+        "src": "/assets/graphic/graphic-lawn-mower/01.webp",
+        "caption": {
+          "zh": "产品广告版面",
+          "en": "Product advertising layout"
+        },
+        "width": 1116,
+        "height": 2000
+      },
+      {
+        "src": "/assets/graphic/graphic-lawn-mower/02.webp",
+        "caption": {
+          "zh": "产品 Brochure 版面",
+          "en": "Product brochure layout"
+        },
+        "width": 2000,
+        "height": 1342
+      },
+      {
+        "src": "/assets/graphic/graphic-lawn-mower/03.webp",
+        "caption": {
+          "zh": "产品宣传资料 · 第 1 页",
+          "en": "Product literature · Page 1"
+        },
+        "width": 2400,
+        "height": 1350
+      },
+      {
+        "src": "/assets/graphic/graphic-lawn-mower/04.webp",
+        "caption": {
+          "zh": "产品宣传资料 · 第 2 页",
+          "en": "Product literature · Page 2"
+        },
+        "width": 2400,
+        "height": 1350
+      }
+    ],
+    "cover": "/assets/graphic/graphic-lawn-mower/01.webp"
+  }
+]

@@ -1,0 +1,445 @@
+[
+  {
+    "id": "sponge-community",
+    "category": "landscape",
+    "title": {
+      "zh": "海绵社区",
+      "en": "Resilient Sponge Community"
+    },
+    "subtitle": {
+      "zh": "松山社区的雨洪与公共空间改造",
+      "en": "Stormwater and public space in Songshan"
+    },
+    "year": "—",
+    "status": "ready",
+    "cover": "/assets/landscape/sponge-community/cover.webp",
+    "images": [
+      {
+        "src": "/assets/landscape/sponge-community/board-02.webp",
+        "caption": {
+          "zh": "申请作品集原始图板 · 第 2 页",
+          "en": "Archived portfolio board · page 2"
+        },
+        "width": 2400,
+        "height": 1697
+      },
+      {
+        "src": "/assets/landscape/sponge-community/board-03.webp",
+        "caption": {
+          "zh": "申请作品集原始图板 · 第 3 页",
+          "en": "Archived portfolio board · page 3"
+        },
+        "width": 2400,
+        "height": 1697
+      },
+      {
+        "src": "/assets/landscape/sponge-community/board-04.webp",
+        "caption": {
+          "zh": "申请作品集原始图板 · 第 4 页",
+          "en": "Archived portfolio board · page 4"
+        },
+        "width": 2400,
+        "height": 1697
+      },
+      {
+        "src": "/assets/landscape/sponge-community/board-05.webp",
+        "caption": {
+          "zh": "申请作品集原始图板 · 第 5 页",
+          "en": "Archived portfolio board · page 5"
+        },
+        "width": 2400,
+        "height": 1697
+      },
+      {
+        "src": "/assets/landscape/sponge-community/board-06.webp",
+        "caption": {
+          "zh": "申请作品集原始图板 · 第 6 页",
+          "en": "Archived portfolio board · page 6"
+        },
+        "width": 2400,
+        "height": 1697
+      },
+      {
+        "src": "/assets/landscape/sponge-community/board-07.webp",
+        "caption": {
+          "zh": "申请作品集原始图板 · 第 7 页",
+          "en": "Archived portfolio board · page 7"
+        },
+        "width": 2400,
+        "height": 1697
+      }
+    ],
+    "description": {
+      "zh": "以松山社区为对象，将雨水管理、种植与日常公共空间联系起来。这里整理了场地分析、设计策略、总平和剖面。原图中的性能数值保留为历史设计表达，未作为经验证的实施成效。",
+      "en": "A community landscape study connecting stormwater, planting and everyday public space in Songshan. The archive brings together site analysis, strategy, plans and sections. Performance figures in the archived boards are design claims rather than verified built outcomes."
+    },
+    "role": {
+      "zh": "个人作品集项目；项目分工说明待补。",
+      "en": "Portfolio project; contribution notes to be completed."
+    },
+    "tools": []
+  },
+  {
+    "id": "industrial-landscape",
+    "category": "landscape",
+    "title": {
+      "zh": "工业遗址的生态更新",
+      "en": "An Industrial Landscape, Reframed"
+    },
+    "subtitle": {
+      "zh": "油库遗址、地形与滨水生境",
+      "en": "Oil-depot heritage, landform and waterfront habitat"
+    },
+    "year": "—",
+    "status": "ready",
+    "cover": "/assets/landscape/industrial-landscape/cover.webp",
+    "images": [
+      {
+        "src": "/assets/landscape/industrial-landscape/board-08.webp",
+        "caption": {
+          "zh": "申请作品集原始图板 · 第 8 页",
+          "en": "Archived portfolio board · page 8"
+        },
+        "width": 2400,
+        "height": 1697
+      },
+      {
+        "src": "/assets/landscape/industrial-landscape/board-09.webp",
+        "caption": {
+          "zh": "申请作品集原始图板 · 第 9 页",
+          "en": "Archived portfolio board · page 9"
+        },
+        "width": 2400,
+        "height": 1697
+      },
+      {
+        "src": "/assets/landscape/industrial-landscape/board-10.webp",
+        "caption": {
+          "zh": "申请作品集原始图板 · 第 10 页",
+          "en": "Archived portfolio board · page 10"
+        },
+        "width": 2400,
+        "height": 1697
+      },
+      {
+        "src": "/assets/landscape/industrial-landscape/board-11.webp",
+        "caption": {
+          "zh": "申请作品集原始图板 · 第 11 页",
+          "en": "Archived portfolio board · page 11"
+        },
+        "width": 2400,
+        "height": 1697
+      }
+    ],
+    "description": {
+      "zh": "以广州旧油库为背景，通过地形与空间的重组，探索工业遗存和滨水生态更新之间的关系。保留分析、策略、总平及场景表达。",
+      "en": "A landscape proposal for a former oil depot in Guangzhou, exploring the relationship between industrial traces, new landforms and waterfront habitats through analysis, plans and spatial studies."
+    },
+    "role": {
+      "zh": "个人作品集项目；项目分工说明待补。",
+      "en": "Portfolio project; contribution notes to be completed."
+    },
+    "tools": []
+  },
+  {
+    "id": "elephant-path",
+    "category": "landscape",
+    "title": {
+      "zh": "象径",
+      "en": "Elephant Path"
+    },
+    "subtitle": {
+      "zh": "栖息地、迁徙廊道与人象共存",
+      "en": "Habitat connections and human–elephant coexistence"
+    },
+    "year": "—",
+    "status": "ready",
+    "cover": "/assets/landscape/elephant-path/cover.webp",
+    "images": [
+      {
+        "src": "/assets/landscape/elephant-path/board-12.webp",
+        "caption": {
+          "zh": "申请作品集原始图板 · 第 12 页",
+          "en": "Archived portfolio board · page 12"
+        },
+        "width": 2400,
+        "height": 1697
+      },
+      {
+        "src": "/assets/landscape/elephant-path/board-13.webp",
+        "caption": {
+          "zh": "申请作品集原始图板 · 第 13 页",
+          "en": "Archived portfolio board · page 13"
+        },
+        "width": 2400,
+        "height": 1697
+      },
+      {
+        "src": "/assets/landscape/elephant-path/board-14.webp",
+        "caption": {
+          "zh": "申请作品集原始图板 · 第 14 页",
+          "en": "Archived portfolio board · page 14"
+        },
+        "width": 2400,
+        "height": 1697
+      },
+      {
+        "src": "/assets/landscape/elephant-path/board-15.webp",
+        "caption": {
+          "zh": "申请作品集原始图板 · 第 15 页",
+          "en": "Archived portfolio board · page 15"
+        },
+        "width": 2400,
+        "height": 1697
+      },
+      {
+        "src": "/assets/landscape/elephant-path/board-16.webp",
+        "caption": {
+          "zh": "申请作品集原始图板 · 第 16 页",
+          "en": "Archived portfolio board · page 16"
+        },
+        "width": 2400,
+        "height": 1697
+      },
+      {
+        "src": "/assets/landscape/elephant-path/board-17.webp",
+        "caption": {
+          "zh": "申请作品集原始图板 · 第 17 页",
+          "en": "Archived portfolio board · page 17"
+        },
+        "width": 2400,
+        "height": 1697
+      }
+    ],
+    "description": {
+      "zh": "围绕亚洲象栖息地破碎化与人象共存展开的区域景观研究，以廊道策略和不同场地节点建立从区域到空间的联系。",
+      "en": "A regional landscape study of habitat fragmentation and human–elephant coexistence, moving from corridor strategies to spatial interventions across different site conditions."
+    },
+    "role": {
+      "zh": "个人作品集项目；项目分工说明待补。",
+      "en": "Portfolio project; contribution notes to be completed."
+    },
+    "tools": []
+  },
+  {
+    "id": "academic-imprint",
+    "category": "landscape",
+    "title": {
+      "zh": "学术印记",
+      "en": "Academic Imprint"
+    },
+    "subtitle": {
+      "zh": "华农校园中的纪念景观叙事",
+      "en": "A commemorative landscape for the SCAU campus"
+    },
+    "year": "—",
+    "status": "ready",
+    "cover": "/assets/landscape/academic-imprint/cover.webp",
+    "images": [
+      {
+        "src": "/assets/landscape/academic-imprint/board-18.webp",
+        "caption": {
+          "zh": "申请作品集原始图板 · 第 18 页",
+          "en": "Archived portfolio board · page 18"
+        },
+        "width": 2400,
+        "height": 1697
+      },
+      {
+        "src": "/assets/landscape/academic-imprint/board-19.webp",
+        "caption": {
+          "zh": "申请作品集原始图板 · 第 19 页",
+          "en": "Archived portfolio board · page 19"
+        },
+        "width": 2400,
+        "height": 1697
+      },
+      {
+        "src": "/assets/landscape/academic-imprint/board-20.webp",
+        "caption": {
+          "zh": "申请作品集原始图板 · 第 20 页",
+          "en": "Archived portfolio board · page 20"
+        },
+        "width": 2400,
+        "height": 1697
+      },
+      {
+        "src": "/assets/landscape/academic-imprint/board-21.webp",
+        "caption": {
+          "zh": "申请作品集原始图板 · 第 21 页",
+          "en": "Archived portfolio board · page 21"
+        },
+        "width": 2400,
+        "height": 1697
+      }
+    ],
+    "description": {
+      "zh": "将人物记忆、农业文化与校园日常空间编织在一起的纪念景观设计。以空间序列、地形、种植和场景图展开叙事。",
+      "en": "A campus landscape proposal weaving personal memory, agricultural heritage and everyday life through spatial sequences, landform, planting and visual narrative."
+    },
+    "role": {
+      "zh": "个人作品集项目；项目分工说明待补。",
+      "en": "Portfolio project; contribution notes to be completed."
+    },
+    "tools": []
+  },
+  {
+    "id": "living-edge",
+    "category": "landscape",
+    "title": {
+      "zh": "阅读生命的边缘",
+      "en": "Reading the Living Edge"
+    },
+    "subtitle": {
+      "zh": "HKU Studio · 红树林、步道与空间阅读",
+      "en": "HKU Studio · mangroves, boardwalks and spatial legibility"
+    },
+    "year": "2026",
+    "status": "wip",
+    "cover": "/assets/landscape/living-edge/cover.webp",
+    "images": [
+      {
+        "src": "/assets/landscape/living-edge/board-01.webp",
+        "caption": {
+          "zh": "设计依据与证据",
+          "en": "Rationale and evidence"
+        },
+        "width": 2400,
+        "height": 1695
+      },
+      {
+        "src": "/assets/landscape/living-edge/board-02.webp",
+        "caption": {
+          "zh": "场地阅读",
+          "en": "Reading the site"
+        },
+        "width": 2400,
+        "height": 1695
+      },
+      {
+        "src": "/assets/landscape/living-edge/board-03.webp",
+        "caption": {
+          "zh": "设计的游程",
+          "en": "The designed journey"
+        },
+        "width": 2400,
+        "height": 1695
+      },
+      {
+        "src": "/assets/landscape/living-edge/board-04.webp",
+        "caption": {
+          "zh": "构筑与生态机制",
+          "en": "Structures and ecological mechanisms"
+        },
+        "width": 2400,
+        "height": 1695
+      },
+      {
+        "src": "/assets/landscape/living-edge/board-05.webp",
+        "caption": {
+          "zh": "研究与过程",
+          "en": "Research and process"
+        },
+        "width": 2400,
+        "height": 1695
+      },
+      {
+        "src": "/assets/landscape/living-edge/model-preparation.webp",
+        "caption": {
+          "zh": "模型制作准备 · 数字装配预览，非实物照片",
+          "en": "Fabrication preparation · digital assembly, not a built model"
+        },
+        "width": 2000,
+        "height": 1400
+      }
+    ],
+    "description": {
+      "zh": "由现有滨海栈道出发，研究如何通过路径、距离、高差与停留，让红树林和水体成为可以被注意与理解的空间。本页呈现 10 月 9 日的五张中期图板，以及后续数字模型准备。",
+      "en": "Starting from an existing coastal walk, the project studies how movement, distance, height and pause shape encounters with mangroves and water. This page presents the five midterm boards from 9 October and subsequent digital fabrication preparation."
+    },
+    "role": {
+      "zh": "HKU MLA 课程设计，进行中；具体工作与 AI 辅助说明待补。",
+      "en": "HKU MLA studio project, in progress; detailed contribution and AI-assistance notes to follow."
+    },
+    "tools": [
+      "Rhino",
+      "InDesign"
+    ]
+  },
+  {
+    "id": "green-near-whom",
+    "category": "landscape",
+    "title": {
+      "zh": "绿地离谁更近？",
+      "en": "Green Near Whom?"
+    },
+    "subtitle": {
+      "zh": "GIS · 深水埗的居住环境与植被",
+      "en": "GIS · residential surroundings and vegetation in Sham Shui Po"
+    },
+    "year": "2026",
+    "status": "ready",
+    "cover": "/assets/landscape/green-near-whom/board.webp",
+    "images": [
+      {
+        "src": "/assets/landscape/green-near-whom/board.webp",
+        "caption": {
+          "zh": "深水埗潜在居住植被暴露分析与街道策略",
+          "en": "Potential vegetation exposure and street strategies in Sham Shui Po"
+        },
+        "width": 1696,
+        "height": 2400
+      }
+    ],
+    "description": {
+      "zh": "以 2021 年土地覆盖与人口资料，比较深水埗 25 个统计区居住地周边 500 米的潜在植被暴露，并提出日常街道的连接与遮荫策略。该指标表达周边植被情境，不等同于步行可达的公共绿地。",
+      "en": "Using 2021 land-cover and census data, the study compares potential vegetation exposure within 500 metres of residential built-up cells across 25 census areas in Sham Shui Po, then develops green-street connections and shade strategies. Exposure describes surrounding vegetation rather than walking access to public green space."
+    },
+    "role": {
+      "zh": "课程项目，含 AI 辅助；分析、制图与排版的具体分工待补。",
+      "en": "Course project with AI assistance; detailed roles in analysis, mapping and layout to be completed."
+    },
+    "tools": [
+      "GIS",
+      "InDesign",
+      "AI-assisted workflow"
+    ]
+  },
+  {
+    "id": "cherry-street-park",
+    "category": "landscape",
+    "title": {
+      "zh": "樱桃街公园",
+      "en": "Cherry Street Park"
+    },
+    "subtitle": {
+      "zh": "种植与场地研究 · 课程小组视频",
+      "en": "Planting and site research · a course group film"
+    },
+    "year": "2026",
+    "status": "ready",
+    "cover": "/assets/landscape/cherry-street-park/cover.webp",
+    "images": [
+      {
+        "src": "/assets/landscape/cherry-street-park/cover.webp",
+        "caption": {
+          "zh": "课程研究视频画面",
+          "en": "A frame from the course research film"
+        },
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    "description": {
+      "zh": "围绕 Cherry Street Park 的种植与场地展开的课程研究视频。作为景观研究内容展示，区别于独立的 AIGC 影像实验。",
+      "en": "A course research film about planting and site conditions in Cherry Street Park, presented as landscape research alongside the group project."
+    },
+    "role": {
+      "zh": "课程小组项目；个人贡献与合作署名待补。",
+      "en": "Course group project; personal contribution and collaborator credits to follow."
+    },
+    "tools": [],
+    "video": "/assets/landscape/cherry-street-park/film.mp4",
+    "poster": "/assets/landscape/cherry-street-park/cover.webp"
+  }
+]
